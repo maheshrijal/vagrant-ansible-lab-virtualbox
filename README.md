@@ -7,6 +7,7 @@
 
 #
 ## Steps to Run:
+#
 1. Clone the github repo
 2. Make sure [Virtualbox](https://www.virtualbox.org/) is installed
 
@@ -23,5 +24,9 @@
 8. Login to ansible-engine: ``vagrant ssh ansible-engine``
 
 9. Check if you can ping ansible nodes: ``ping ansible-node-1``
-
+#
 ### Congrats! You can now work on Ansible.
+
+#
+
+### To shut down the machines run: ``vagrant halt``
