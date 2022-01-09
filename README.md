@@ -3,9 +3,7 @@
 
 ### Forked From: [vagrant-iac-usecases](https://github.com/ginigangadharan/vagrant-iac-usecases/tree/master/virtualbox-ansible-lab)
 #
-## This Vagrantfile creates 2 ansible nodes & 1 ansible engine
-#
-## Limitatations: This script will not work on WSL/WSL2
+## This Vagrantfile creates 2 ansible nodes & 1 ansible engine. However, this script will not work in WSL/WSL2
 
 #
 ## Steps to Run:
