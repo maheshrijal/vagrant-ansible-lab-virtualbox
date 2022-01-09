@@ -1,7 +1,7 @@
 # vagrant-ansible-lab-virtualbox
-## Credits: [ginigangadharan](https://github.com/ginigangadharan)
+### Credits: [ginigangadharan](https://github.com/ginigangadharan)
 
-## Forked From: [vagrant-iac-usecases](https://github.com/ginigangadharan/vagrant-iac-usecases/tree/master/virtualbox-ansible-lab)
+### Forked From: [vagrant-iac-usecases](https://github.com/ginigangadharan/vagrant-iac-usecases/tree/master/virtualbox-ansible-lab)
 #
 ## This Vagrantfile creates 2 ansible nodes & 1 ansible engine
 #
@@ -27,9 +27,7 @@
 
 9. Check if you can ping ansible nodes: ``ping ansible-node-1``
 #
-### Congrats! You can now work on Ansible.
-
-### Steps to write ansible code in vscode:
+### Congrats! You can now work on Ansible. Want to code in vs-code?
 #
 1. You can open SSH into the remote container from vs-code using [remote-ssh](https://marketplace.visualstudio.com/items?temName=ms-vscode-remote.remote-ssh).
 
