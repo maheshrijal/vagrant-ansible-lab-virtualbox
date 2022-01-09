@@ -29,6 +29,11 @@
 #
 ### Congrats! You can now work on Ansible.
 
-#
+## You can open SSH into the remote container from vs-code using [remote-ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 
-### To shut down the machines run: ``vagrant halt``
+## To get the ssh config file for ansible-engine type ``vagrant ssh-config`` & copy the configuration for ansible-engine
+
+### Copy the output your SSH config file — I added it to my default SSH config at ~/.ssh/config
+### You can use this info to SSH into container through vs-code & write scripts easily
+
+## To shut down the machines run: ``vagrant halt``
